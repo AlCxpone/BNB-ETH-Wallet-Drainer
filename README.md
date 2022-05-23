@@ -2,7 +2,7 @@
 Replies with a large number of mentions on the specified Tweet for Easy Marketing.
 
 ## Preview
-[![sellix](https://user-images.githubusercontent.com/106108005/169876989-88cddcb2-7e06-4f11-a247-37a38e363271.png)](https://alcxpone.sellix.io)
+[![sellix](https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/b4e95f32-e622-4bb9-7a85-a093822f4100/shopitem)](https://alcxpone.sellix.io)
 
 ## Purchase
 Price: $1500

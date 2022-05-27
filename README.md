@@ -1,4 +1,4 @@
-# Twitter Mass Mention / Replier
+# BNB / ETH Wallet Drainer
 Replies with a large number of mentions on the specified Tweet for Easy Marketing.
 
 ## Preview
@@ -8,7 +8,7 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 Price: $1500
 Payment Methods: BTC, ETH, LTC, SOL
 
-[Telegram](https://t.me/alcxpone) — [Shop **(buy here)**](https://alcxpone.sellix.io)
+[Telegram](https://t.me/alcapone_services) — [Shop **(buy here)**](https://alcxpone.sellix.io)
 
 ## Terms of Service
 - All sales are final
